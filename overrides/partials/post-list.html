@@ -1,0 +1,22 @@
+{% if config.plugins.blog %}
+  {% for post in posts %}
+    <div class="md-post md-post--excerpt">
+      <div class="md-post__content">
+        <h2 class="md-post__title">
+          <a href="{{ post.url | url }}">{{ post.title }}</a>
+        </h2>
+        <div class="md-post__meta md-meta">
+          <div class="md-meta__date">
+            {{ post.date.strftime("%B %d, %Y") }}
+          </div>
+        </div>
+        <div class="md-typeset">
+          {{ post.content | striptags | truncate(250) }}
+        </div>
+        <a href="{{ post.url | url }}" class="md-button">
+          Continue reading
+        </a>
+      </div>
+    </div>
+  {% endfor %}
+{% endif %}
