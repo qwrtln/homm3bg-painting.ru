@@ -1,0 +1,112 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Painting of Might and Magic III",
+    "home_page_url": "https://ru.paint-h3.qwrtln.nl/",
+    "feed_url": "https://ru.paint-h3.qwrtln.nl/feed_json_created.json",
+    "description": "\u0420\u0430\u0441\u043a\u0440\u0430\u0441\u043a\u0430 \u043c\u0438\u043d\u0438\u0430\u0442\u044e\u0440 \u0438\u0437 \u0413\u0435\u0440\u043e\u0435\u0432 \u041c\u0435\u0447\u0430 \u0438 \u041c\u0430\u0433\u0438\u0438 III",
+    "icon": null,
+    "authors": [],
+    "language": "ru",
+    "items": [
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/03/%D1%81%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/03/%D1%81%D0%BD%D0%B0%D0%B9%D0%BF%D0%B5%D1%80/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0421\u043d\u0430\u0439\u043f\u0435\u0440",
+            "content_html": "\u0413\u043e\u0442\u043e\u0432 \u0441\u043b\u0443\u0436\u0438\u0442\u044c \u0432 \u041b\u0435\u0441\u043d\u043e\u0439 \u0421\u0442\u0440\u0430\u0436\u0435.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/sharpshooter/sharpshooter-front.webp",
+            "date_published": "2025-03-16T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9-%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9-%D0%B3%D0%BE%D0%BB%D0%B5%D0%BC/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0417\u043e\u043b\u043e\u0442\u043e\u0439 \u0413\u043e\u043b\u0435\u043c",
+            "content_html": "\u041d\u0435\u043e\u0436\u0438\u0434\u0430\u043d\u043d\u043e \u043f\u0440\u0438\u044f\u0442\u043d\u044b\u0439 \u0424\u0430\u0440\u0430\u043e\u043d \u0434\u043b\u044f \u043f\u043e\u043a\u0440\u0430\u0441\u043a\u0438.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/gold-golem/gold-golem.webp",
+            "date_published": "2025-02-28T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D0%BC%D0%B5%D1%80%D0%BA%D0%B0/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D0%BC%D0%B5%D1%80%D0%BA%D0%B0/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u041f\u0435\u0440\u0432\u0430\u044f \u0421\u0435\u043c\u0435\u0440\u043a\u0430",
+            "content_html": "\u0423\u0440\u043e\u043a\u0438, \u0438\u0437\u0432\u043b\u0435\u0447\u0451\u043d\u043d\u044b\u0435 \u0438\u0437 \u043d\u0430\u0447\u0430\u043b\u0430 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/first-seven.webp",
+            "date_published": "2025-02-22T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BF%D0%BE%D0%BB%D1%83%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D0%BA/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BF%D0%BE%D0%BB%D1%83%D1%80%D0%BE%D1%81%D0%BB%D0%B8%D0%BA/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u041f\u043e\u043b\u0443\u0440\u043e\u0441\u043b\u0438\u043a",
+            "content_html": "\u041a\u0440\u043e\u0448\u0435\u0447\u043d\u044b\u0439 \u0424\u0440\u043e\u0434\u043e, \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0438\u043a\u0442\u043e \u043d\u0435 \u0445\u043e\u0447\u0435\u0442 \u043a\u0440\u0430\u0441\u0438\u0442\u044c.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/halfling/halfling.webp",
+            "date_published": "2025-02-21T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D1%80%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D1%80%D0%B6%D0%B0%D0%B2%D1%8B%D0%B9-%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0420\u0436\u0430\u0432\u044b\u0439 \u0414\u0440\u0430\u043a\u043e\u043d",
+            "content_html": "\u0412\u0442\u043e\u0440\u043e\u0435 \u0441\u0430\u043c\u043e\u0435 \u043c\u043e\u0433\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e \u0432 \u0438\u0433\u0440\u0435",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/rust-dragon/processed/1.webp",
+            "date_published": "2025-02-15T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BC%D1%83%D0%BC%D0%B8%D1%8F/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%BC%D1%83%D0%BC%D0%B8%D1%8F/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u041c\u0443\u043c\u0438\u044f",
+            "content_html": "\u041d\u0430\u0440\u0438\u0441\u043e\u0432\u0430\u0442\u044c \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u042d\u0434\u0434\u0438 \u0438\u0437 Iron Maiden.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/mummy-front.webp",
+            "date_published": "2025-02-05T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%B1%D0%BE%D1%80%D0%BE%D0%B2/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2025/02/%D0%B1%D0%BE%D1%80%D0%BE%D0%B2/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0411\u043e\u0440\u043e\u0432",
+            "content_html": "\u041f\u0435\u0440\u0432\u0430\u044f \u043c\u0438\u043d\u0438\u0430\u0442\u044e\u0440\u0430 \u0441 \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u043e\u0441\u043d\u043e\u0432\u043e\u0439 5 \u0441\u043c.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/boar-1.webp",
+            "date_published": "2025-02-02T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%B8%D0%BD/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D0%BA%D1%80%D0%B5%D1%81%D1%82%D1%8C%D1%8F%D0%BD%D0%B8%D0%BD/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u041a\u0440\u0435\u0441\u0442\u044c\u044f\u043d\u0438\u043d",
+            "content_html": "\u041f\u0440\u0435\u0432\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u0432 \u041f\u0438\u0442\u0435\u0440\u0430 \u0411\u0440\u0435\u0439\u0433\u0435\u043b\u044f \u043d\u0430 \u043e\u0434\u0438\u043d \u0434\u0435\u043d\u044c.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/peasant_front.webp",
+            "date_published": "2024-11-30T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D1%8C/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0422\u0440\u043e\u043b\u043b\u044c",
+            "content_html": "\u0412\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u044b\u0439 \u044e\u043d\u0438\u0442 Heroes.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/troll_front.jpeg",
+            "date_published": "2024-11-20T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        },
+        {
+            "id": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA/",
+            "url": "https://ru.paint-h3.qwrtln.nl/posts/2024/11/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA/?utm_source=documentation&utm_medium=RSS&utm_campaign=feed-syndication",
+            "title": "\u0420\u0430\u0437\u0431\u043e\u0438\u0306\u043d\u0438\u043a",
+            "content_html": "\u041d\u0430\u0447\u0430\u043b\u043e \u043d\u043e\u0432\u043e\u0433\u043e \u0445\u043e\u0431\u0431\u0438.",
+            "image": "https://ru.paint-h3.qwrtln.nl/assets/images/rogue_front.jpeg",
+            "date_published": "2024-11-17T00:00:00+00:00",
+            "authors": [],
+            "tags": null
+        }
+    ]
+}
