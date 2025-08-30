@@ -1,0 +1,67 @@
+/@import "https://fonts.googleapis.com/css?family=Lora|Ek Mukta";
+
+body {
+  --md-text-font-family: Lora, Georgia, serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Ek Mukta", serif;
+  font-weight: 800;
+}
+
+.md-typeset {
+  font-size: 1rem;
+}
+
+article.md-post {
+  clear: both;
+}
+
+.md-typeset img.crop-left-mug {
+  width: 200px;
+  height: 200px;
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  object-fit: cover;
+  object-position: top;
+}
+
+.md-typeset img.crop-right-mug {
+  width: 200px;
+  float: right;
+  margin-left: 1em;
+}
+
+.md-typeset img.float-right-mug {
+  float: right;
+  width: 300px;
+  padding-left: 1em;
+}
+
+.float-right-pic {
+  float: right;
+  padding-left: 1em;
+}
+
+.float-left-pic {
+  float: left;
+  padding-left: 1em;
+}* } */
+
+.md-post--excerpt {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-post--excerpt .md-button {
+  margin-top: 0.5rem;
+}
+
+.loading-indicator {
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+}
