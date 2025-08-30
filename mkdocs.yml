@@ -1,0 +1,115 @@
+copyright: Copyright &copy; 2024-2025 qwrtln
+site_name: Painting of Might and Magic III
+site_description: "Раскраска миниатюр из Героев Меча и Магии III"
+site_url: https://ru.paint-h3.qwrtln.nl/
+site_dir: gh_pages
+docs_dir: docs
+
+theme:
+  name: material
+  custom_dir: overrides
+  favicon: assets/favicon.svg
+  language: ru
+  logo: assets/palette.png
+  icon:
+    alternate: ru-round
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: "blue grey"
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: "blue grey"
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - content.code.copy
+    - content.tabs.link
+    - navigation.footer
+    - navigation.tabs
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+extra:
+  alternate:
+    - name: English
+      link: https://paint-h3.qwrtln.nl/
+      lang: en
+    - name: Polski
+      link: https://pl.paint-h3.qwrtln.nl/
+      lang: pl
+    - name: Русский
+      link: https://ru.paint-h3.qwrtln.nl/
+      lang: ru
+
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      categories_name: Categories
+      post_url_format: "posts/{date}/{slug}"
+      post_url_date_format: yyyy/MM
+      post_readtime_words_per_minute: 200
+      post_excerpt: optional
+      post_excerpt_separator: <!--more-->
+      pagination: true
+      pagination_per_page: 5
+  - rss:
+      date_from_meta:
+        as_creation: "date"
+      match_path: "posts/*"
+      pretty_print: true
+      url_parameters:
+        utm_source: "documentation"
+        utm_medium: "RSS"
+        utm_campaign: "feed-syndication"
+      use_git: false
+  - search
+  - tags
+  - privacy
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - def_list
+  - pymdownx.blocks.caption
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: KumoCorp
+      repo: kumomta
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      base_path:
+        - assets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+extra_css:
+  - style.css
+
+extra_javascript:
+  - assets/js/infinite-scroll.js
